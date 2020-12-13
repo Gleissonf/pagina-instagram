@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\lojaflex"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "instagram"
+	}
+}
